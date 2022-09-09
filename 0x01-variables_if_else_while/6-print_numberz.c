@@ -7,7 +7,7 @@
  * Return: 0
  */
 
-int main(int n)
+int main()
 {
 int n = 48;
 while (n <= 57)
