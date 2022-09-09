@@ -7,7 +7,7 @@
  * Return: 0
  */
 
-int main(int n, char [])
+int main(int n, char *v[])
 {
 int n = 48;
 while (n <= 57)
