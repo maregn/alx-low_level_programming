@@ -9,12 +9,12 @@
 
 int main(void)
 {
-int n;
-for(n = 48; n <= 57; n++)
+int n = 48;
+while (n <= 57)
 {
 putchar(n);
+n += 1;
 }
 printf("\n");
 return (0);
 }
-
